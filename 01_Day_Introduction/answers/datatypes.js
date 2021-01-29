@@ -1,0 +1,6 @@
+console.log(typeof '')
+console.log(typeof true)
+console.log(typeof null)
+console.log(typeof 5)
+console.log(typeof [])
+console.log(typeof 5.2)
