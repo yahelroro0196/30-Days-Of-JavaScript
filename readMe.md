@@ -556,7 +556,7 @@ country
 city
 capitalCity
 age
-isMarried
+is_married
 
 first_name
 last_name

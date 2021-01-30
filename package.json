@@ -1,0 +1,7 @@
+{
+  "name": "30-Days-Of-JavaScript",
+  "version": "1.0.0",
+  "dependencies": {
+    "dateformat": "^4.5.0"
+  }
+}

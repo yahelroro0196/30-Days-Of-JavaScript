@@ -18,3 +18,5 @@ test.md
 test.html
 res.js
 .idea/
+
+node_modules/dateformat/
